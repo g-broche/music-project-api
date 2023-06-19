@@ -1,0 +1,382 @@
+[{
+  "_id": {
+    "$oid": "64872c39ad0200d7ae0c4c31"
+  },
+  "name": "Aloïse Sauvage",
+  "country": "fr",
+  "albums": [
+    {
+      "name": "Premier album",
+      "year": 2012,
+      "tracks": [
+        {
+          "name": "Premier titre",
+          "duration": 130,
+          "nbHits": 3478
+        },
+        {
+          "name": "Deuxieme titre",
+          "duration": 203,
+          "nbHits": 5925
+        },
+        {
+          "name": "Troisieme titre",
+          "duration": 240,
+          "nbHits": 1871
+        }
+      ]
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "64872c39ad0200d7ae0c4c32"
+  },
+  "name": "John Doe",
+  "country": "us",
+  "albums": [
+    {
+      "name": "First Album",
+      "year": 2010,
+      "tracks": [
+        {
+          "name": "First Track",
+          "duration": 180,
+          "nbHits": 4627
+        },
+        {
+          "name": "Second Track",
+          "duration": 220,
+          "nbHits": 2723
+        }
+      ]
+    },
+    {
+      "name": "Second Album",
+      "year": 2015,
+      "tracks": [
+        {
+          "name": "Intro",
+          "duration": 90,
+          "nbHits": 5041
+        },
+        {
+          "name": "Outro",
+          "duration": 150,
+          "nbHits": 3569
+        }
+      ]
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "64872c39ad0200d7ae0c4c33"
+  },
+  "name": "Maria Gomez",
+  "country": "es",
+  "albums": [
+    {
+      "name": "Mi Pasión",
+      "year": 2018,
+      "tracks": [
+        {
+          "name": "Amor Eterno",
+          "duration": 210,
+          "nbHits": 1215
+        },
+        {
+          "name": "Baila Conmigo",
+          "duration": 185,
+          "nbHits": 6124
+        }
+      ]
+    },
+    {
+      "name": "Canciones de Verano",
+      "year": 2022,
+      "tracks": [
+        {
+          "name": "Vamos a la Playa",
+          "duration": 150,
+          "nbHits": 2765
+        },
+        {
+          "name": "Calor en la Ciudad",
+          "duration": 170,
+          "nbHits": 3962
+        },
+        {
+          "name": "Fiesta Loca",
+          "duration": 200,
+          "nbHits": 5783
+        }
+      ]
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "64872c39ad0200d7ae0c4c34"
+  },
+  "name": "Sarah Johnson",
+  "country": "us",
+  "albums": [
+    {
+      "name": "First Steps",
+      "year": 2015,
+      "tracks": [
+        {
+          "name": "Walking Alone",
+          "duration": 190,
+          "nbHits": 2563
+        },
+        {
+          "name": "Into the Unknown",
+          "duration": 240,
+          "nbHits": 3809
+        },
+        {
+          "name": "Finding My Way",
+          "duration": 210,
+          "nbHits": 5674
+        }
+      ]
+    },
+    {
+      "name": "Journey of Dreams",
+      "year": 2019,
+      "tracks": [
+        {
+          "name": "Dreamscape",
+          "duration": 180,
+          "nbHits": 1935
+        },
+        {
+          "name": "Path of Reflection",
+          "duration": 200,
+          "nbHits": 4258
+        }
+      ]
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "64872c39ad0200d7ae0c4c35"
+  },
+  "name": "Luis Hernandez",
+  "country": "es",
+  "albums": [
+    {
+      "name": "El Camino",
+      "year": 2017,
+      "tracks": [
+        {
+          "name": "Amanecer",
+          "duration": 150,
+          "nbHits": 2911
+        },
+        {
+          "name": "Viento en el Corazón",
+          "duration": 220,
+          "nbHits": 6234
+        },
+        {
+          "name": "Pasión Flamenca",
+          "duration": 180,
+          "nbHits": 4423
+        }
+      ]
+    },
+    {
+      "name": "Sueños de Verano",
+      "year": 2021,
+      "tracks": [
+        {
+          "name": "Noches Cálidas",
+          "duration": 170,
+          "nbHits": 5234
+        },
+        {
+          "name": "Bailando Bajo la Luna",
+          "duration": 190,
+          "nbHits": 1823
+        },
+        {
+          "name": "Ritmo Latino",
+          "duration": 200,
+          "nbHits": 3178
+        }
+      ]
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "64872c39ad0200d7ae0c4c36"
+  },
+  "name": "Sophie Martin",
+  "country": "fr",
+  "albums": [
+    {
+      "name": "Chansons d'amour",
+      "year": 1955,
+      "tracks": [
+        {
+          "name": "Mon amour éternel",
+          "duration": 180,
+          "nbHits": 3125
+        },
+        {
+          "name": "Le temps des roses",
+          "duration": 220,
+          "nbHits": 1892
+        }
+      ]
+    },
+    {
+      "name": "Parisian Nights",
+      "year": 1962,
+      "tracks": [
+        {
+          "name": "Midnight Stroll",
+          "duration": 200,
+          "nbHits": 2557
+        },
+        {
+          "name": "Moonlit Serenade",
+          "duration": 190,
+          "nbHits": 4129
+        },
+        {
+          "name": "Café au Lait",
+          "duration": 170,
+          "nbHits": 3376
+        }
+      ]
+    },
+    {
+      "name": "Rêves de Printemps",
+      "year": 1978,
+      "tracks": [
+        {
+          "name": "Fleurs du Matin",
+          "duration": 150,
+          "nbHits": 4723
+        },
+        {
+          "name": "Danse de Papillon",
+          "duration": 200,
+          "nbHits": 5228
+        }
+      ]
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "64872c39ad0200d7ae0c4c37"
+  },
+  "name": "Lucien Dupont",
+  "country": "fr",
+  "albums": [
+    {
+      "name": "Les Années Folles",
+      "year": 1965,
+      "tracks": [
+        {
+          "name": "La Vie en Rose",
+          "duration": 190,
+          "nbHits": 3965
+        },
+        {
+          "name": "Swinging Jazz",
+          "duration": 210,
+          "nbHits": 5789
+        },
+        {
+          "name": "Cabaret Nights",
+          "duration": 180,
+          "nbHits": 4682
+        }
+      ]
+    },
+    {
+      "name": "Sous le Ciel Bleu",
+      "year": 1972,
+      "tracks": [
+        {
+          "name": "Balade Romantique",
+          "duration": 200,
+          "nbHits": 3121
+        },
+        {
+          "name": "Melancholy Dreams",
+          "duration": 220,
+          "nbHits": 2264
+        }
+      ]
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "64872c39ad0200d7ae0c4c38"
+  },
+  "name": "Isabelle Leclerc",
+  "country": "fr",
+  "albums": [
+    {
+      "name": "L'amour et la Musique",
+      "year": 1968,
+      "tracks": [
+        {
+          "name": "Chanson d'Amour",
+          "duration": 170,
+          "nbHits": 2375
+        },
+        {
+          "name": "La Danse de la Vie",
+          "duration": 190,
+          "nbHits": 4089
+        },
+        {
+          "name": "Mélodie Enchantée",
+          "duration": 220,
+          "nbHits": 5723
+        }
+      ]
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "64883ca69a69dc8ffe2dad11"
+  },
+  "albums": [],
+  "name": "Verdi",
+  "country": "ita",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "648972cab29bf5efc8d24650"
+  },
+  "albums": [
+    {
+      "year": 2023,
+      "tracks": [
+        {
+          "name": "Beast Dance",
+          "duration": 205,
+          "nbHits": 0
+        }
+      ],
+      "name": "Oshi no Uta"
+    }
+  ],
+  "name": "Shigumano",
+  "country": "jp",
+  "__v": 1
+}]
